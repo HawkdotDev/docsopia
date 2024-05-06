@@ -16,7 +16,7 @@ Docsopia is a command-line interface (CLI) tool that allows you to manage your n
 
 This method allows you to use Docsopia commands from anywhere in your terminal.
 
-1. Make sure you have Node.js (version 14 or above recommended) installed.
+1. Make sure you have Node.js (v20 or above recommended) installed (works with Bun as well)
 2. Open your terminal and run the following command:
 
    ```bash
@@ -30,7 +30,7 @@ After installation, you can use various Docsopia commands to manage your notes. 
 
 - Clone this repository:
   ```Bash
-  git clone [https://github.com/your-username/docsopia.git](https://github.com/your-username/docsopia.git)
+  git clone https://github.com/your-username/docsopia.git](https://github.com/your-username/docsopia.git)
   ```
 
 - Install dependencies:
