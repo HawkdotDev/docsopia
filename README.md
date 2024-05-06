@@ -1,4 +1,4 @@
-# Docsopia: A Rich Text Notes CLI with Web Editor
+# Docsopia: Notes Web Editor with CLI
 
 Docsopia is a command-line interface (CLI) tool that allows you to manage your notes with a rich text editing experience and real-time collaboration. It leverages a web-based UI for note editing, providing a familiar and accessible experience.
 
